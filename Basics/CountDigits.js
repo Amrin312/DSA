@@ -3,7 +3,7 @@ let n=259;
 function countDigits(n){
     let count =0;
 
-    if(n == 0) return 1 //corner case 1 => what n is 0. It shoul return 1 coz it is also a digit
+    if(n == 0) return 1 //corner case 1 => when n is 0. It should return 1 coz it is also a digit
 
     n = Math.abs(n); //corner case 2 => what if n is negative number. Math.abs() converts it into absolute value(0 - n)
 
