@@ -1,0 +1,35 @@
+✅ Express Setup
+
+✅ REST APIs
+
+✅ CRUD
+
+⬜ Middleware
+
+⬜ Route Params vs Query vs Body
+
+⬜ JWT Authentication
+
+⬜ MongoDB CRUD
+
+⬜ MySQL CRUD
+
+⬜ Multer
+
+⬜ Error Handling
+
+⬜ Async Await
+
+⬜ MVC
+
+⬜ CORS
+
+⬜ dotenv
+
+⬜ Pagination
+
+⬜ Search
+
+⬜ Sorting
+
+⬜ Validation
