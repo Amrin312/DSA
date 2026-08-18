@@ -41,7 +41,7 @@ function App() {
         console.log(1);
         setStates(data);
 
-      }catch(err){
+      }catch(err){                                    
         if(err.name === "AbortError"){
           console.log('Previous req cancelled!');
         }else{
