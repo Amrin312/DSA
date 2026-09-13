@@ -14,5 +14,4 @@ function countDigits(n){
     }
     return count
 }
-console.log(countDigits(n));
-
+console.log(countDigits(n)); 

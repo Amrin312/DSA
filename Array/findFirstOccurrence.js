@@ -34,4 +34,4 @@ function findFirstOccurrence(arr, target) {
     return result;
 }
 
-console.log(findFirstOccurrence([1, 2, 3, 4,5,6,7,8,9], 8));
+console.log(findFirstOccurrence([1, 2, 3, 4, 5, 6, 7, 8, 9], 8));
